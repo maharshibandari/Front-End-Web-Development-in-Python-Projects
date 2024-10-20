@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-container{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+}
+.container1 {
+    padding: 13px;
+    margin: 15px;
+}
+
+.container1-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.button{
+    background-color: #0967d2;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 37px;
+    width: 137px;
+    border-radius: 9px;
+    border-width: 0px;
+}
+
+.container {
+    padding: 13px;
+    margin: 13px;
+    background-color: #0967d219;
+    border-radius: 13px;
+}
+
+.card-img{
+    width: 49px;
+    height: 49px;
+    margin: 11px;
+}
+
+.container-text{
+    padding: 7px;
+}
+
+.container-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.container-descreption {
+    font-family: "Roboto";
+    color: #707070;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.sub-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 13px;
+    font-size: 21px;
+    color: #323f4b;
+    padding-left: 13px;
+}
+
+.container2 {
+    margin: 13px;
+    font-family: "Roboto";
+}
+
+.cough-container {
+    background-color: #3ebd93;
+    border-radius: 13px;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 9px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 13px;
+}
+
+.fever-container {
+    background-color: #e668a7;
+    border-radius: 13px;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 9px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 13px;
+}
+
+.headache-container {
+    background-color: #a368fc;
+    border-radius: 13px;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 9px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 13px;
+}

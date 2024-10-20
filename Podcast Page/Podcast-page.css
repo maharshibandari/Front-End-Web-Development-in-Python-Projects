@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 31vh;
+}
+
+.home-main-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 33px;
+    padding: 21px;
+    font-weight: 500;
+}
+
+.home-podcast-container {
+    padding: 15px;
+}
+
+.home-card-detail {
+    margin: 11px;
+    text-align: center;
+}
+
+.home-cover-img {
+    height: 113px;
+    width: 143px;
+    margin-top: 11px;
+}
+
+.home-name {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    color: #151765;
+    margin-top: 7px;
+}
+
+.home-episodes {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.podcast-top-container {
+    background-color: #151765;
+    height: 20vh;
+    padding: 17px;
+}
+
+.podcast-top-container-text-section {
+    margin-left: 9px;
+}
+
+.podcast-top-container-text {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.podcast-top-container-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.podcast-playlist {
+    padding: 11px;
+}
+
+.podcast-img {
+    height: 113px;
+    width: 143px;
+}
+
+.episode-container {
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.episode-text-container {
+    margin-left: 9px;
+    margin-top: 3px;
+}
+
+.episode-title {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.episode-descreption {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #5a7184;
+}
+
+.episode-time {
+    font-family: "Roboto";
+    font-size: 11px;
+    color: #151765;
+}
+
+.button {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #151765;
+    font-size: 13px;
+    height: 23px;
+    width: 73px;
+    border-radius: 17px;
+    border-width: 0px;
+    margin: 17px;
+}
